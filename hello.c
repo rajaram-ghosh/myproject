@@ -2,8 +2,9 @@
 
 int main()
 {
+<<<<<<< HEAD
 	printf("HOLLA MUNDA: Goodbye");
-	printf("Solve");
+	printf("Solve Conflict");
 
 	return 0;
 }
