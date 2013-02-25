@@ -3,7 +3,7 @@
 int main()
 {
 	printf("HOLLA MUNDA: Goodbye");
-	printf("Showing you 3-way merge");
+	printf("Solve");
 
 	return 0;
 }
