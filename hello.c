@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("HOLLA MUNDA");
+	printf("HOLLA MUNDA: Goodbye");
 	return 0;
 }
