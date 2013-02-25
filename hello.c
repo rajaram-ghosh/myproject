@@ -2,7 +2,7 @@
 
 int main()
 {
-<<<<<<< HEAD
+
 	printf("HOLLA MUNDA: Goodbye");
 	printf("Solve Conflict");
 
